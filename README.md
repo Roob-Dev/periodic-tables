@@ -1,5 +1,13 @@
 # Restaurant Reservation System: Periodic Tables
+https://capstone-restaurant-frontend.herokuapp.com/dashboard
 
+## About this app
+
+This application targets fine dining restaurants, that run on reservations. When a customer calls to make a reservation, the restaurant employee can create a new reservation, enter the customer and party size details. Of course it's also cancellable. When it's time to seat them, the employee is able to search for a reservation via phone number. Once it's pulled up, the employee is able to view available tables, and is able to choose one fitting the customer's requirements
+
+## Technology used
+
+JavaScript, CSS, HTML, React.js, bootstrap, Node.js, Express.js, Knex, PostgreSQL, Heroku
 
 | Folder/file path | Description                                                      |
 | ---------------- | ---------------------------------------------------------------- |
